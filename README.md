@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me? -Discord: BeastCodZ#1470
+- 📫 How to reach me? -Discord: BeastCodZ#7538
