@@ -1,8 +1,6 @@
 <h1 align="center">I am BeastCodZ</h1>
 <h3 align="center">A Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beastcodz" alt="beastcodz" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/beastcodz" target="blank"><img src="https://img.shields.io/twitter/follow/beastcodz?logo=twitter&style=for-the-badge" alt="beastcodz" /></a> </p>
 
 - 🔭 I’m currently working on **3D Projects**
