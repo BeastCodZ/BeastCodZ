@@ -1,13 +1,10 @@
-<h1 align="center">I am BeastCodZ</h1>
-<h3 align="center">A Developer from India</h3>
+![Github](https://github.com/BeastCodZ/BeastCodZ/assets/62057520/5e434e65-4fca-495a-a0b7-819d6f7d97ad)
 
 <p align="left"> <a href="https://twitter.com/beastcodz" target="blank"><img src="https://img.shields.io/twitter/follow/beastcodz?logo=twitter&style=for-the-badge" alt="beastcodz" /></a> </p>
 
-- 🔭 I’m currently working on **3D Projects**
+- 🌱 I’m currently learning **Python**
 
-- 🌱 I’m currently learning **Blender**
-
-- 📫 How to reach me **codingclub1934@gmail.com**
+- 📫 How to reach me **beastcodz1934@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
