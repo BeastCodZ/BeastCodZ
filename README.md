@@ -1,9 +1,11 @@
-![Github](https://github.com/BeastCodZ/BeastCodZ/assets/62057520/5e434e65-4fca-495a-a0b7-819d6f7d97ad)
+<div style="display: flex;">
+  <img src="https://github.com/BeastCodZ/BeastCodZ/assets/62057520/5e434e65-4fca-495a-a0b7-819d6f7d97ad" alt="Github" style="height: 300px;">
+  <img src="https://data.typeracer.com/misc/badge?user=beastcodz" alt="Typeracer" style="height: 300px;">
+</div>
 
 <p align="left"> <a href="https://twitter.com/beastcodz" target="blank"><img src="https://img.shields.io/twitter/follow/beastcodz?logo=twitter&style=for-the-badge" alt="beastcodz" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
-
 - 📫 How to reach me **beastcodz1934@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
