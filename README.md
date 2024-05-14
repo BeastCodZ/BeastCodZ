@@ -9,7 +9,7 @@
 <a href="https://fb.com/beastcodz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="beastcodz" height="30" width="40" /></a>
 <a href="https://instagram.com/beastcodz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beastcodz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/beastcodz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="beastcodz" height="30" width="40" /></a>
-<a href="https://discord.gg/F4bZjNHSwz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="F4bZjNHSwz" height="30" width="40" /></a>
+<a href="https://discord.com/users/516140725185019905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="F4bZjNHSwz" height="30" width="40" /></a>
 </p>
 
 <h4>External Sources:</h4>
