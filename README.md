@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>
 
-### 🌟 About Me
+### 👨🏻 About Me
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F743E7&width=435&lines=Full+Stack+Developer;Dumbo;Tech+Enthusiast+Student)<br>
 I'm a versatile developer who loves to explore the vast universe of technology. Whether it's front-end, back-end, mobile, or DevOps, I dive in with passion and creativity.
 
