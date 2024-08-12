@@ -21,7 +21,7 @@ I'm a versatile developer who loves to explore the vast universe of technology. 
 
 ### 🛠️ My Projects
 - **Desktop Controller**: Control your pc remotely using your any device on same network.
-- [**StreamDecky**](https://github.com/beastcodz/streamdecky) Open applications using devices on the same network
+- [**StreamDecky**](https://github.com/beastcodz/streamdecky): Open applications using devices on the same network
 
 ### I'm current listening to
 [![Music SVG](https://readme-typing-svg.herokuapp.com?font=Edu+AU+VIC+WA+NT+Hand&size=16&pause=1000&color=F74FE2&random=true&width=435&lines=One+Love+-+Blue;The+Night+We+Met+-+Lord+Huron;Money%2C+Money%2C+Money+-+ABBA)](https://git.io/typing-svg)
