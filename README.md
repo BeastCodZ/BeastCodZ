@@ -2,7 +2,7 @@
 
 ### 👨🏻 About Me
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F743E7&width=435&lines=Full+Stack+Developer;Dumbo;Tech+Enthusiast+Student)<br>
-I'm a versatile developer who loves to explore the vast universe of technology. Whether it's front-end, back-end, mobile, or DevOps, I dive in with passion and creativity.
+I'm a versatile developer who loves to explore the vast universe of technology. Whether it's front-end, back-end or mobile, I dive in with passion and creativity.
 
 ### 🔧 My Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-EDD53F?style=flat-square&logo=javascript&logoColor=black)
