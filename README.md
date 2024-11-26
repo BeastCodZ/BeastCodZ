@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>
 
 ### 👨🏻 About Me
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F743E7&width=435&lines=Full+Stack+Developer;Dumbo;Tech+Enthusiast+Student)<br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=f8c2ff&width=435&lines=Full+Stack+Developer;Dumbo;Tech+Enthusiast+Student)<br>
 I'm a versatile developer who loves to explore the vast universe of technology. Whether it's front-end, back-end or mobile, I dive in with passion and creativity.
 
 ### 🔧 My Stack
@@ -20,10 +20,11 @@ I'm a versatile developer who loves to explore the vast universe of technology. 
 
 
 ### 🛠️ My Projects
-- **Desktop Controller**: Control your pc remotely using your any device on same network.
-- [**StreamDecky**](https://github.com/beastcodz/streamdecky): Open applications using devices on the same network
+- **Desktop Controller**: Control your PC remotely from any device on the same network.
+- [**StreamDecky**](https://github.com/beastcodz/streamdecky): Open apps remotely over the same network, turning your device into a virtual Stream Deck.
+- **WinKey**: Custom 2-factor authenticator for secure logins.
 
 ### I'm current listening to
-[![Music SVG](https://readme-typing-svg.herokuapp.com?font=Edu+AU+VIC+WA+NT+Hand&size=16&pause=1000&color=F74FE2&random=true&width=435&lines=One+Love+-+Blue;The+Night+We+Met+-+Lord+Huron;Money%2C+Money%2C+Money+-+ABBA)](https://git.io/typing-svg)
+[![Music SVG](https://readme-typing-svg.herokuapp.com/?font=Edu+AU+VIC+WA+NT+Hand&size=16&pause=1000&color=F74FE2&random=true&width=435&lines=The+Night+We+Met+-+Lord+Huron;APT+-+ROSE+-+Bruno/Mars)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BeastCodZ&color=ff69b4&style=for-the-badge)
