@@ -10,7 +10,7 @@
 > uname -a
 BeastCodZ - Developer | Tinkerer | Tech addict
 > whoami
-A Full-stack dev who types at 126 WPM while managing a custom Arch Linux build.  
+A Full-stack dev who drinks coffee to sleep.  
 Coding logic > Code quantity.
 ```
 
