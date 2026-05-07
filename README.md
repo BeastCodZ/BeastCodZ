@@ -1,6 +1,6 @@
 <h1 align="center"><img style="width: 48px" src="https://onlinepngtools.com/images/examples-onlinepngtools/sunset.gif"/> <a href="https://beastcodz.github.io">BeastCodZ</a> <img style="width: 48px" src="https://onlinepngtools.com/images/examples-onlinepngtools/sunset.gif"/></h1>
 <p align="center">
-  <strong>Root access? Dream on.</strong>
+  <strong>Even mediocrity has standards.</strong>
 </p>
 
 
@@ -8,9 +8,9 @@
 
 ```sh
 > uname -a
-BeastCodZ - Developer | Tinkerer | Tech addict
+BeastCodZ - Developer | Tinkerer
 > whoami
-A Full-stack dev who drinks coffee to sleep.  
+A Full-stack dev
 Coding logic > Code quantity.
 ```
 
